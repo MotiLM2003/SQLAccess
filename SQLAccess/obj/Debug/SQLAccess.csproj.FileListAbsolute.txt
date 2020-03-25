@@ -1,0 +1,13 @@
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\bin\Debug\SQLAccess.exe.config
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\bin\Debug\SQLAccess.exe
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\bin\Debug\SQLAccess.pdb
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.csprojAssemblyReference.cache
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.Properties.Resources.resources
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.csproj.GenerateResource.cache
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.csproj.CoreCompileInputs.cache
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.exe
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.pdb
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.FormUI.resources
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\bin\Debug\Dapper.dll
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\bin\Debug\Dapper.xml
+C:\Users\Moti\Documents\Visual Studio 2017\Projects\SQLAccess\SQLAccess\obj\Debug\SQLAccess.csproj.CopyComplete
